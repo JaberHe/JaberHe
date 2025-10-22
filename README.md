@@ -20,7 +20,7 @@ focusing on designing, automating, and optimizing scalable data pipelines.
 ### ⚙️ Current Projects
 | Project | Description |
 |----------|-------------|
-| [coming_soon](futurelink-notworkingactually) | future desc |
+| [aws learning log](https://github.com/JaberHe/aws_learning_log/tree/main) | future desc |
 
 
 ---
