@@ -20,7 +20,7 @@ focusing on designing, automating, and optimizing scalable data pipelines.
 ### ⚙️ Current Projects
 | Project | Description |
 |----------|-------------|
-| [aws learning log](https://github.com/JaberHe/aws_learning_log/tree/main) | future desc |
+| [aws learning log](https://github.com/JaberHe/aws_learning_log/tree/main) | My personal roadmap to becoming an AWS Data Engineer, where I document everything I learn, test, and build |
 
 
 ---
