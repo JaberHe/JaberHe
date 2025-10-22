@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hey, I'm Jaber  
 
-<!--
-**JaberHe/JaberHe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Data Engineer | Talend | AWS | Python | Terraform**
 
-Here are some ideas to get you started:
+After a year mastering Talend ETL, I’m now building my cloud expertise on **AWS**,  
+focusing on designing, automating, and optimizing scalable data pipelines.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Focus 2025
+- 🎓 Preparing for **AWS Data Engineer Associate** certification  
+- 💡 Building a **Streamlit app** to visualize cloud pipeline performance  
+- 🧩 Creating a **Portfolio Django** to present data case studies  
+
+---
+
+### ⚙️ Current Projects
+| Project | Description |
+|----------|-------------|
+| [coming_soon](futurelink-notworkingactually) | future desc |
+
+
+---
+
+### 🧰 Tech Stack
+`AWS` • `Talend` • `Python` • `Glue` • `Redshift` • `SQL` • `Terraform`  
+
+---
+
+### 📫 Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/jaberhe/)  
+📧 **Email:** jaber.hechaichi@gmail.com  
+
+---
+
+<sub>✨ Passionate about learning, building, and making data meaningful.</sub>
