@@ -29,6 +29,7 @@ focusing on designing, automating, and optimizing scalable data pipelines.
 
 ### 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-JaberHe-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jaberhe/)
+
 📧 [jaber.hechaichi@gmail.com](mailto:jaber.hechaichi@gmail.com)
 
 ---
